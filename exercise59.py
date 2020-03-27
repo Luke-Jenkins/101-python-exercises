@@ -1,3 +1,8 @@
+# Section Title: Accessing List Elements
+# exercises 50-59
+# This is the last exercise in the section
+# Goal: Write a function definition named first_to_last that takes in sequence and returns the sequence 
+# with the first value moved to the end of the sequence.
 def first(input):
     count = 0
     for x in input:
